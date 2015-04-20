@@ -14,7 +14,7 @@ var querystring = require("querystring"),
 	util = require('util');
 
 //change this path to the appropriate server path as required
-var server_path = "C:/sandpit/NodeJS/BasicHTTPServer/";
+var server_path = "C:/NodeJS/SimpleNodeJSRequestHandler/";
 var new_file_name = "";
 
 //display the fileupload form
